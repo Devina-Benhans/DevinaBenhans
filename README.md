@@ -7,6 +7,7 @@ Saya seorang mahasiswa Sistem Informasi yang tertarik dalam Artificial Intellige
 Framework yang saya kuasai adalah penggunaan Figma
 
 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devina-Benhans&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devina-Benhans&theme=radical)
 
