@@ -6,7 +6,7 @@ Saya seorang mahasiswa Sistem Informasi yang tertarik dalam Artificial Intellige
 
 🛠 Skills & Tech Stack
 
-Framework yang saya kuasai adalah penggunaan Figma
+Framework yang saya kuasai adalah Figma
 
 📊 GitHub Stats
 
